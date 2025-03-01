@@ -1,0 +1,49 @@
+Broj primarnih brojeva u ulaznom nizu je:5133
+Elapsed time:  17.615198850631714
+
+
+Broj primarnih brojeva u ulaznom nizu je:6935
+Elapsed time:  33.912944316864014
+
+
+Pi je približno 3.1415926420872022 s pogreškom od 1.1502590879786112e-08
+Elapsed time:  6.867605924606323
+
+Pi je približno 3.1415926535895617 s pogreškom od 2.313704783318826e-13
+Elapsed time:  16.19871497154236
+
+After 1 iterations, the error is 0.25011052976070103
+				0.25011052976070103
+				0.25011027076368136
+0.25011027076368136		0.25011027076368136
+Time for 1 iterations was 6.311134099960327 seconds
+
+Each iteration took 6.311134099960327 seconds
+
+
+
+
+
+
+After 2 iterations, the error is 0.13979117045781442
+				 0.13979102552765002
+				 0.13979102552765002
+Time for 2 iterations was 29.879390716552734 seconds
+
+Each iteration took 14.939695358276367 seconds
+
+After 10 iterations, the error is 0.04010006564858741
+
+Time for 10 iterations was 140.64942336082458 seconds
+
+Each iteration took 14.064942336082458 seconds
+
+
+
+After 10 iterations, the error is 0.04010007433057362
+
+Time for 10 iterations was 7.123511552810669 seconds
+
+Each iteration took 0.7123511552810669 seconds
+
+
